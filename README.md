@@ -47,7 +47,6 @@ Make sure to bring:
 - `uv` package manager installed →  
   ```bash
   curl -Ls https://astral.sh/uv/install.sh | sh
-````
 
 * Clone this repo ahead of the event:
 
