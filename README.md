@@ -51,7 +51,7 @@ Make sure to bring:
 * Clone this repo ahead of the event:
 
   ```bash
-  git clone https://github.com/YOUR_GITHUB/MCP-workshop-hydpy.git
+  git clone https://github.com/AIAnytime/MCP-Workshop-HYDPY/
   cd MCP-workshop-hydpy
   ```
 
