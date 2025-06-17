@@ -11,18 +11,18 @@ Welcome to the **Model Context Protocol (MCP)** workshop at HYDPY! This hands-on
 
 ---
 
-## 🧠 What You’ll Learn
+## What You’ll Learn
 
 We’ll cover the following key topics:
 
-- ✅ What is MCP and why it matters now
-- 📈 Rise and evolution of MCP in AI ecosystems
-- 🔍 Core concepts: protocol, client/server, routing, and validation
-- ⚙️ MCP Server + Client practical implementation (Python-based)
-- 🔄 Tools & IDEs that support MCP workflows
-- 📦 Use cases across AI Agents, RAG systems, and automation
-- ⚠️ Pros, cons, and when *not* to use MCP
-- 🚀 The future of MCP in secure AI systems
+- What is MCP and why it matters now
+- Rise and evolution of MCP in AI ecosystems
+- Core concepts: protocol, client/server, routing, and validation
+- MCP Server + Client practical implementation (Python-based)
+- Tools & IDEs that support MCP workflows
+- Use cases across AI Agents, RAG systems, and automation
+- Pros, cons, and when *not* to use MCP
+- The future of MCP in secure AI systems
 
 ---
 
@@ -31,10 +31,10 @@ We’ll cover the following key topics:
 We’ll use the following tools during the session:
 
 - `Python 3.12+` with `uv` installed
-- `TRAE IDE` – portable, fast coding workspace. Practical automation
+- `TRAE IDE` – portable, fast coding workspace. Practical automation (https://traeide.com/download)
 - `Claude for Desktop` – As a Host
 - `Windsurf IDE` – preferred for building some code related thingy
-- `Goose Codename` (for macOS users only)
+- `Goose Codename` (for macOS users only) https://block.github.io/goose/
 
 ---
 
@@ -42,14 +42,14 @@ We’ll use the following tools during the session:
 
 Make sure to bring:
 
-- 💻 A **laptop with internet access**
+- A **laptop with internet access**
 - 🐍 Python 3.12 installed → [Install Python](https://www.python.org/downloads/release/python-3120/)
-- 📦 `uv` package manager installed →  
+- `uv` package manager installed →  
   ```bash
   curl -Ls https://astral.sh/uv/install.sh | sh
 ````
 
-* 🚀 Clone this repo ahead of the event:
+* Clone this repo ahead of the event:
 
   ```bash
   git clone https://github.com/YOUR_GITHUB/MCP-workshop-hydpy.git
