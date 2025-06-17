@@ -38,7 +38,7 @@ We’ll use the following tools during the session:
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Make sure to bring:
 
